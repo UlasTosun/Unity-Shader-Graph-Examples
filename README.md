@@ -19,4 +19,3 @@ This repository includes a couple of specific example cases of Shader Graph such
 
 **Shader Graph for UI (Older Versions):** It provides an example UI shader which is based on sprite unlite shaders for older version.
 ![Old UI](Screenshots/OldUI.png)
-
