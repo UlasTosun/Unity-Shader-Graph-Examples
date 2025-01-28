@@ -17,5 +17,5 @@ This repository includes a couple of specific example cases of Shader Graph such
 **Shader Graph for UI (Newer Versions):** Newer Shader Graph versions (URP 16.0+) can create canvas shaders to use for UI. This example case includes a basic canvas shader which blends two textures with an adjustable border.
 ![NewUI](Screenshots/NewUI.png)
 
-**Shader Graph for UI (Older Versions):** It provides an example UI shader which is based on sprite unlite shaders for older version.
+**Shader Graph for UI (Older Versions):** It provides an example UI shader which is based on sprite unlite shaders for older versions.
 ![Old UI](Screenshots/OldUI.png)
