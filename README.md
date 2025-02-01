@@ -12,11 +12,10 @@ This repository includes a couple of specific example cases of Shader Graph such
 **Custom Post Processing:** Newer Shader Graph versions (URP 14.0+) have the ability of creating shaders for custom post processing. This example provides a custom post processing shader which converts screen into grayscale colors with a circular animation.
 ![CustomPostProcessing](Screenshots/CustomPostProcessing.png)
 
-![ExampleShaderGraph](Screenshots/ExampleShaderGraph.png)
+![ExampleShaderGraph](Screenshots/ExampleShaderGraph.png)<br/><br/>
 
 **Shader Graph for UI (Newer Versions):** Newer Shader Graph versions (URP 16.0+) can create canvas shaders to use for UI. This example case includes a basic canvas shader which blends two textures with an adjustable border.
-![NewUI](Screenshots/NewUI.png)
+![NewUI](Screenshots/NewUI.png)<br/><br/>
 
 **Shader Graph for UI (Older Versions):** It provides an example UI shader which is based on sprite unlite shaders for older versions.
-
-![Old UI](Screenshots/OldUI.png)
+![Old UI](Screenshots/OldUI.png)<br/>
