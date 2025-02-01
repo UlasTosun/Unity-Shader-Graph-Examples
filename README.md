@@ -7,7 +7,7 @@ This repository includes a couple of specific example cases of Shader Graph such
 
 ## Example Cases
 
-**Custom HLSL Functions:** Shader Graphs enables developers to add custom HLSL functions to graphs as nodes. Using graphs creates a visual experience for developing, however sometimes it can be exhausting, because you may need tens of nodes to be able to create simple shaders. Also, built-in nodes cannot be enough for purposes. In those cases, adding custom functions is very useful. This example case provides a basic custom function which animates the color in a sinusoidal form.
+**Custom HLSL Functions:** Shader Graphs enables developers to add custom HLSL functions to graphs as nodes. Using graphs creates a visual experience for developing, however sometimes it can be exhausting, because you may need tens of nodes to be able to create simple shaders. Also, built-in nodes cannot be enough for purposes. In those cases, adding custom functions is very useful. This example case provides a basic custom function which animates the color in a sinusoidal form.<br/><br/>
 
 **Custom Post Processing:** Newer Shader Graph versions (URP 14.0+) have the ability of creating shaders for custom post processing. This example provides a custom post processing shader which converts screen into grayscale colors with a circular animation.
 ![CustomPostProcessing](Screenshots/CustomPostProcessing.png)
